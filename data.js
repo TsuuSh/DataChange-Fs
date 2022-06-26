@@ -13,7 +13,7 @@ function dataRe(file, lines) {
 			if (err) {
 				console.log(err);
 			} else {
-				console.log('File ' + file + ' is now modifid !');
+				console.log('File ' + file + ' is now modified !');
 			}
 		});
 	}
