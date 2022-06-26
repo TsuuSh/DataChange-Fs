@@ -13,7 +13,7 @@ function dataRe(file, lines) {
 			if (err) {
 				console.log(err);
 			} else {
-				console.log('Fichier liste.txt modifié');
+				console.log('File ' + file + ' is now modifid !');
 			}
 		});
 	}
